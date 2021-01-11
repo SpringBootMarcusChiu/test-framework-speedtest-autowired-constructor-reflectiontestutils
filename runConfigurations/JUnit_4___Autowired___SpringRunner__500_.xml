@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="JUnit 4 - Autowired - SpringRunner [500]" type="JUnit" factoryName="JUnit" repeat_count="500" repeat_mode="N Times">
+    <module name="speedtest-autowired-constructor-reflectiontestutils" />
+    <useClassPathOnly />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.marcuschiu.example.spring.boot.speedtestautowiredcontructorreflectiontestutils.junit4.autowired.springrunner.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="com.marcuschiu.example.spring.boot.speedtestautowiredcontructorreflectiontestutils.junit4.autowired.springrunner" />
+    <option name="MAIN_CLASS_NAME" value="" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="package" />
+    <option name="PARAMETERS" value="" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
